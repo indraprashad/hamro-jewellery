@@ -2,14 +2,14 @@
 # Hamro Jewellery E-commerce Platform
 # For all the file maintain max 200 lines of code. as far as possible make re-useable component.
 # folder layout
-/src
+`/src
   ├── auth          # auth file
   ├── common        # re‑usable files
   ├── services      # api services
   ├── utils         # utility files
   ├── store         # context
   ├── routes        # app routes
-  └── view          # landing page
+  └── view          # landing page`
 
 
 ## Requirements
